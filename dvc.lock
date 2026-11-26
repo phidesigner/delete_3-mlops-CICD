@@ -5,8 +5,8 @@ stages:
     deps:
     - path: config.yaml
       hash: md5
-      md5: 1c4cbf737aeea3a894b3abdda65bc5af
-      size: 3536
+      md5: a2c2c4e848479cabbd7ffbcfeda63855
+      size: 3540
     - path: data/inference/opioid_infer_01.csv
       hash: md5
       md5: 636b0cc765ba6425ca1285a5971ce227
@@ -27,9 +27,9 @@ stages:
       size: 47591
     - path: models/model.joblib
       hash: md5
-      md5: 19d3c2b59125739c677305ba8e143b78
-      size: 21844
+      md5: f638ecb552f59705aa644927901b1f66
+      size: 21892
     - path: reports/predictions.csv
       hash: md5
-      md5: 5d5fb45763bfd6892db1b759c9a05d9e
-      size: 295
+      md5: d2d161a0ba7bcb012c85eab017b29b4a
+      size: 292
